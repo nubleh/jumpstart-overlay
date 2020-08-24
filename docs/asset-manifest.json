@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jumpstart-overlay/static/css/main.69eda509.chunk.css",
+    "main.js": "/jumpstart-overlay/static/js/main.25bcc849.chunk.js",
+    "main.js.map": "/jumpstart-overlay/static/js/main.25bcc849.chunk.js.map",
+    "runtime-main.js": "/jumpstart-overlay/static/js/runtime-main.a55ece96.js",
+    "runtime-main.js.map": "/jumpstart-overlay/static/js/runtime-main.a55ece96.js.map",
+    "static/js/2.8147a9d6.chunk.js": "/jumpstart-overlay/static/js/2.8147a9d6.chunk.js",
+    "static/js/2.8147a9d6.chunk.js.map": "/jumpstart-overlay/static/js/2.8147a9d6.chunk.js.map",
+    "index.html": "/jumpstart-overlay/index.html",
+    "precache-manifest.3dbdc0b4ca903779aac8a93abfca6081.js": "/jumpstart-overlay/precache-manifest.3dbdc0b4ca903779aac8a93abfca6081.js",
+    "service-worker.js": "/jumpstart-overlay/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/jumpstart-overlay/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.8147a9d6.chunk.js.LICENSE.txt": "/jumpstart-overlay/static/js/2.8147a9d6.chunk.js.LICENSE.txt",
+    "static/media/506px-Jumpstart_Booster.png": "/jumpstart-overlay/static/media/506px-Jumpstart_Booster.a0c9a3d3.png",
+    "static/media/terramorphicexpanse.jpg": "/jumpstart-overlay/static/media/terramorphicexpanse.a21531ac.jpg",
+    "static/media/unstableforest.jpg": "/jumpstart-overlay/static/media/unstableforest.b89db905.jpg",
+    "static/media/unstableisland.jpg": "/jumpstart-overlay/static/media/unstableisland.783f1c16.jpg",
+    "static/media/unstablemountain.jpg": "/jumpstart-overlay/static/media/unstablemountain.07bcbef5.jpg",
+    "static/media/unstableplains.jpg": "/jumpstart-overlay/static/media/unstableplains.0c956fce.jpg",
+    "static/media/unstableswamp.jpg": "/jumpstart-overlay/static/media/unstableswamp.a2887718.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a55ece96.js",
+    "static/js/2.8147a9d6.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.25bcc849.chunk.js"
+  ]
+}

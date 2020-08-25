@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jumpstart-overlay/precache-manifest.3dbdc0b4ca903779aac8a93abfca6081.js"
+  "/jumpstart-overlay/precache-manifest.76b00832d398803326d305dea7766076.js"
 );
 
 self.addEventListener('message', (event) => {

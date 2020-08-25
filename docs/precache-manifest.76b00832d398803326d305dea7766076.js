@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ffd2d3548c3aa55772a3c54eb39c8aa",
+    "revision": "40d8bee692b0524a7fb194e1c7d14914",
     "url": "/jumpstart-overlay/index.html"
   },
   {
-    "revision": "0e7b42fc4ebcaf15a09b",
+    "revision": "a63cf373f1d4fec48d2f",
     "url": "/jumpstart-overlay/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jumpstart-overlay/static/js/2.8147a9d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e7b42fc4ebcaf15a09b",
-    "url": "/jumpstart-overlay/static/js/main.25bcc849.chunk.js"
+    "revision": "a63cf373f1d4fec48d2f",
+    "url": "/jumpstart-overlay/static/js/main.8cce48f0.chunk.js"
   },
   {
     "revision": "ee8bafa8fe8266f9ba2c",

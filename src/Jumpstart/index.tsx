@@ -147,7 +147,7 @@ const Jumpstart = () => {
   const [selectedName, set_selectedName] = useState('');
   const [searchQuery, set_searchQuery] = useState('');
   const [packOpen, set_packOpen] = useState(false);
-  const [draw, set_draw] = useState(false);
+  const [draw, set_draw] = useState(true);
   const selectedPack = data.data.find(item => {
     return item.name === selectedName;
   });
